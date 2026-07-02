@@ -37,30 +37,18 @@
 
 | Project | Description |
 |---|---|
-| 🔗 [Task-Master-Project](https://github.com/mantosh7/Task-Master-Project) | A full stack task management web application |
-| 🔗 [Brand-Landing-Page](https://github.com/mantosh7/Brand-Landing-Page) | A static brand landing page built with React |
-| 🔗 [react-country-explorer](https://github.com/mantosh7/react-country-explorer) | Explore countries of the world with flags, details & facts |
-| 🔗 [ContentForge-AI](https://github.com/mantosh7/ContentForge-AI) | Full-stack AI platform for blog/article generation & AI image editing |
+| 🔗 [Synapse-Project](https://github.com/mantosh7/Synapse-Project) | Personal knowledge engine to upload PDFs, ask questions, and get AI answers with source references |
+| 🔗 [MeetingIQ](https://github.com/mantosh7/MeetingIQ) | AI-powered meeting intelligence platform that converts audio recordings and transcripts into summaries, action items, and deadlines |
+| 🔗 [Homigo](https://github.com/mantosh7/Homigo) | A full-stack Rental Management Platform with role-based access for admins and tenants |
+| 🔗 [ContentForge-AI](https://github.com/mantosh7/ContentForge-AI) | Full-stack AI platform for blog/article generation, AI image editing, and a creator community |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mantosh7&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mantosh7&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantosh7&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/mantosh-kumar-4ab410307" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mahiraval000@gmail.com">
